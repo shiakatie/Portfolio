@@ -1,0 +1,44 @@
+body {
+    text-align: left;
+    font-family: Helvetica; 
+    color: #333366;
+}
+
+.red {
+	color: #DA291C;
+}
+
+h1 {
+	font-size: 85px;
+	line-height: 85px;
+}
+
+.images {
+	text-align: center;
+    display:block;
+}
+
+.images img {
+    display:block;
+    max-width:700px;
+    margin-top:300px;
+    margin-bottom: 300px;
+    margin-left: 50%;
+}
+
+.top {
+    position: fixed;
+    top: 0;
+}
+
+
+.bottom {
+    position: fixed;
+    bottom: 0;
+}
+
+
+
+
+
+
